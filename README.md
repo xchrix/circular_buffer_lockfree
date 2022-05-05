@@ -1,5 +1,6 @@
 根据[kfifo][2]，使用[内存屏障][1]实现单生产者单消费者队列案例，实现使用c++11的[memory order][3]
 
+使用模板元编程，保证泛化能力
 
 [1]:http://ifeve.com/linux-memory-barriers
 [2]:http://blog.csdn.net/caohonghui/article/details/50495476
